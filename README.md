@@ -24,10 +24,10 @@ Pendiente, buscar tamaño de oring adecuado
 |----:|-------------------------------------------------|-------------------------------------------------------|
 |   2	| Tornillo M2.5 x 4 mm						| https://www.mcmaster.com/91290A099/		|
 |   4	| Tornillo M2.5 x 10 mm					| https://www.mcmaster.com/91290A103/		|
-|   1	| XYZ Unified Daughterboard			| https://github.com/xyzz/xyztkl-r2/tree/main/dboard	|
+|   1	| XYZ Daughterboard			| https://github.com/xyzz/xyztkl-r2/tree/main/dboard	|
 
 La version heatset ademas utiliza:
-Referencia: https://www.aliexpress.com/item/1005003174906572.html
+https://www.aliexpress.com/item/1005003174906572.html
 
 | Qty | Item						|
 |----:|-------------------------------------------------|
