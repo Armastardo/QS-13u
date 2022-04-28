@@ -22,6 +22,14 @@ Pendiente, buscar tamaño de oring adecuado
 
 | Qty | Item						| Notes							|
 |----:|-------------------------------------------------|-------------------------------------------------------|
-|   2	| M2 x 4 mm						| https://www.mcmaster.com/91290A011/		|
-|   4	| M2.5 x 10 mm					| https://www.mcmaster.com/91290A103/		|
-|   1	| C3 Unified Daughterboard			| https://github.com/ai03-2725/Unified-Daughterboard	|
+|   2	| Tornillo M2.5 x 4 mm						| https://www.mcmaster.com/91290A099/		|
+|   4	| Tornillo M2.5 x 10 mm					| https://www.mcmaster.com/91290A103/		|
+|   1	| XYZ Unified Daughterboard			| https://github.com/xyzz/xyztkl-r2/tree/main/dboard	|
+
+La version heatset ademas utiliza:
+Referencia: https://www.aliexpress.com/item/1005003174906572.html
+
+| Qty | Item						|
+|----:|-------------------------------------------------|
+|   2	| Insert M2.5 x 3 x 3.5						|
+|   4	| Insert M2.5 x 5 x 3.5					|
