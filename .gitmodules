@@ -1,6 +1,6 @@
 [submodule "qw-footprints"]
-	path = qw-footprints
+	path = pcb/qw-footprints
 	url = https://github.com/Armastardo/qw-footprints
 [submodule "marbastlib"]
-	path = marbastlib
+	path = pcb/marbastlib
 	url = https://github.com/ebastler/marbastlib
