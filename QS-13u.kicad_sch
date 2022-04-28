@@ -2242,7 +2242,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 83.82 71.374 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0b5753cc-f737-4e82-b31f-7809688696d9)
-    (property "Reference" "SW48" (id 0) (at 83.82 67.056 0))
+    (property "Reference" "SW50" (id 0) (at 83.82 67.056 0))
     (property "Value" "MX_SW_solder" (id 1) (at 83.82 66.294 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2275,7 +2275,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 25.4 71.374 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0f1c5d63-1d32-4ff6-8d93-dcf5c1c03c03)
-    (property "Reference" "SW?" (id 0) (at 25.4 67.056 0))
+    (property "Reference" "SW48" (id 0) (at 25.4 67.056 0))
     (property "Value" "MX_SW_solder" (id 1) (at 25.4 66.294 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2511,7 +2511,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 171.45 71.374 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2e01b078-f7ca-4c89-986c-02a4a28501e2)
-    (property "Reference" "SW?" (id 0) (at 171.45 67.056 0))
+    (property "Reference" "SW53" (id 0) (at 171.45 67.056 0))
     (property "Value" "MX_SW_solder" (id 1) (at 171.45 66.294 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2888,7 +2888,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 54.61 71.374 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5a904dcc-2f93-4281-8e8f-655976fc8404)
-    (property "Reference" "SW?" (id 0) (at 54.61 67.056 0))
+    (property "Reference" "SW49" (id 0) (at 54.61 67.056 0))
     (property "Value" "MX_SW_solder" (id 1) (at 54.61 66.294 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3198,7 +3198,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 104.14 71.374 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 89a1b2f6-56a0-4e43-9426-28b8440b4c1b)
-    (property "Reference" "SW49" (id 0) (at 102.362 67.31 90)
+    (property "Reference" "SW51" (id 0) (at 102.362 67.31 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "MX_SW_solder" (id 1) (at 99.06 71.374 0)
@@ -3587,7 +3587,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 191.77 71.374 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b18cbbf2-93ad-4294-9a17-d9e43ca0d7be)
-    (property "Reference" "SW50" (id 0) (at 189.738 74.422 90)
+    (property "Reference" "SW54" (id 0) (at 189.738 74.422 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "MX_SW_solder" (id 1) (at 186.69 71.374 0)
@@ -3692,7 +3692,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 142.24 71.374 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c02ba2ca-342f-41cf-80ff-4493cff37acc)
-    (property "Reference" "SW?" (id 0) (at 142.24 67.056 0))
+    (property "Reference" "SW52" (id 0) (at 142.24 67.056 0))
     (property "Value" "MX_SW_solder" (id 1) (at 142.24 66.294 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3820,7 +3820,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 48.514 106.172 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d27f2b02-a3d0-4a4e-9163-dbab4452129c)
-    (property "Reference" "SW51" (id 0) (at 48.514 98.552 0))
+    (property "Reference" "SW55" (id 0) (at 48.514 98.552 0))
     (property "Value" "SW_Push" (id 1) (at 48.514 101.092 0))
     (property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem" (id 2) (at 48.514 101.092 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4507,29 +4507,29 @@
     (path "/c00675f9-a3e7-4b3b-a0b1-72fecc05e383"
       (reference "SW47") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
-    (path "/0b5753cc-f737-4e82-b31f-7809688696d9"
-      (reference "SW48") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
-    )
-    (path "/89a1b2f6-56a0-4e43-9426-28b8440b4c1b"
-      (reference "SW49") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
-    )
-    (path "/b18cbbf2-93ad-4294-9a17-d9e43ca0d7be"
-      (reference "SW50") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.25u")
-    )
-    (path "/d27f2b02-a3d0-4a4e-9163-dbab4452129c"
-      (reference "SW51") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
-    )
     (path "/0f1c5d63-1d32-4ff6-8d93-dcf5c1c03c03"
-      (reference "SW?") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
-    )
-    (path "/2e01b078-f7ca-4c89-986c-02a4a28501e2"
-      (reference "SW?") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+      (reference "SW48") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/5a904dcc-2f93-4281-8e8f-655976fc8404"
-      (reference "SW?") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+      (reference "SW49") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+    )
+    (path "/0b5753cc-f737-4e82-b31f-7809688696d9"
+      (reference "SW50") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+    )
+    (path "/89a1b2f6-56a0-4e43-9426-28b8440b4c1b"
+      (reference "SW51") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/c02ba2ca-342f-41cf-80ff-4493cff37acc"
-      (reference "SW?") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+      (reference "SW52") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+    )
+    (path "/2e01b078-f7ca-4c89-986c-02a4a28501e2"
+      (reference "SW53") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+    )
+    (path "/b18cbbf2-93ad-4294-9a17-d9e43ca0d7be"
+      (reference "SW54") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.25u")
+    )
+    (path "/d27f2b02-a3d0-4a4e-9163-dbab4452129c"
+      (reference "SW55") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
     )
     (path "/e0f9fec8-73fa-41e1-949f-b3b3870bdbd3"
       (reference "U1") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
