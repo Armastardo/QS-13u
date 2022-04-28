@@ -7,4 +7,5 @@
   (lib (name "quantum")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/quantum")(options "")(descr ""))
   (lib (name "qw new logo")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/qw new logo")(options "")(descr ""))
   (lib (name "WIP")(type "KiCad")(uri "${KIPRJMOD}/qw-footprints/WIP")(options "")(descr ""))
+  (lib (name "extra")(type "KiCad")(uri "${KIPRJMOD}/extra")(options "")(descr ""))
 )
